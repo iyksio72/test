@@ -1,0 +1,31 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "identity": {
+  "principalId": "5805efec-eaa1-4a97-a062-99c013430bb4",
+  "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "NIST SP 800-53 Rev. 5",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/179d1daa-458f-4e47-8086-2a68d0d6c38f",
+  "scope": "/subscriptions/6f8a075b-3213-4fa3-b8b9-8bc637a8d83a",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Steven Lau",
+   "parameterScopes": {},
+   "createdBy": "0f790d99-8d45-4bee-aa20-f780d7bf3077",
+   "createdOn": "2022-11-24T04:41:01.9861687Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/6f8a075b-3213-4fa3-b8b9-8bc637a8d83a/providers/Microsoft.Authorization/policyAssignments/2426ab78f94843388d2ed6b4",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "2426ab78f94843388d2ed6b4",
+ "location": "eastus"
+}
